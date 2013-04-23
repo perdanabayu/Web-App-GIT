@@ -1,0 +1,5 @@
+F:\BNI Life\Github\WebAppGit\bin\WebAppGit.dll
+F:\BNI Life\Github\WebAppGit\bin\WebAppGit.pdb
+F:\BNI Life\Github\WebAppGit\obj\Debug\ResolveAssemblyReference.cache
+F:\BNI Life\Github\WebAppGit\obj\Debug\WebAppGit.dll
+F:\BNI Life\Github\WebAppGit\obj\Debug\WebAppGit.pdb
